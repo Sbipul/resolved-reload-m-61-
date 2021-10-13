@@ -1,0 +1,11 @@
+.service{
+    width:300px;
+    margin:10px auto;
+    border-radius:7px;
+    overflow:hidden;
+}
+
+.card_Body{
+    background:grey;
+    color:white;
+}
